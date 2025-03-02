@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\bin\Debug\net8.0-windows\dowhile.exe
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\bin\Debug\net8.0-windows\dowhile.deps.json
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\bin\Debug\net8.0-windows\dowhile.runtimeconfig.json
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\bin\Debug\net8.0-windows\dowhile.dll
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\bin\Debug\net8.0-windows\dowhile.pdb
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\obj\Debug\net8.0-windows\dowhile.Form1.resources
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\obj\Debug\net8.0-windows\dowhile.vbproj.GenerateResource.cache
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\obj\Debug\net8.0-windows\dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\obj\Debug\net8.0-windows\dowhile.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\obj\Debug\net8.0-windows\dowhile.AssemblyInfo.vb
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\obj\Debug\net8.0-windows\dowhile.vbproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\obj\Debug\net8.0-windows\dowhile.dll
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\obj\Debug\net8.0-windows\refint\dowhile.dll
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\obj\Debug\net8.0-windows\dowhile.pdb
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\obj\Debug\net8.0-windows\dowhile.genruntimeconfig.cache
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\dowhile\obj\Debug\net8.0-windows\ref\dowhile.dll

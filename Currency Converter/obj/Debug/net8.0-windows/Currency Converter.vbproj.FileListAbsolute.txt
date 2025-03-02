@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\obj\Debug\net8.0-windows\Currency_Converter.FrmCURRENCYCONVERTER.resources
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.vbproj.GenerateResource.cache
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.AssemblyInfo.vb
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.vbproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\bin\Debug\net8.0-windows\Currency Converter.exe
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\bin\Debug\net8.0-windows\Currency Converter.deps.json
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\bin\Debug\net8.0-windows\Currency Converter.runtimeconfig.json
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\bin\Debug\net8.0-windows\Currency Converter.dll
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\bin\Debug\net8.0-windows\Currency Converter.pdb
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.dll
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\obj\Debug\net8.0-windows\refint\Currency Converter.dll
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.pdb
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.genruntimeconfig.cache
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\obj\Debug\net8.0-windows\ref\Currency Converter.dll
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\Currency Converter\obj\Debug\net8.0-windows\Currency_Converter.FrmCONVERTER.resources
