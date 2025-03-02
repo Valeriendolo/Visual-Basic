@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\bin\Debug\APBANKv.exe
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\bin\Debug\APBANKv.pdb
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\bin\Debug\APBANKv.xml
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\WindowsApplication1.BANKMENU.resources
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\WindowsApplication1.REGISTRATION.resources
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\WindowsApplication1.FUNDSTRANSFER.resources
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\WindowsApplication1.HOME_PAGE.resources
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\WindowsApplication1.Loan_Application.resources
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\WindowsApplication1.LOGIN.resources
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\APBANKv.vbproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\APBANKv.exe
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\APBANKv.xml
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\APBANKv.pdb
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\WindowsApplication1.CONTACTS.resources
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\WindowsApplication1.DELETEACCOUNT.resources
+C:\Users\user\OneDrive\Documents\Visual Studio 2010\Projects\APBANK\APBANK\obj\x86\Debug\WindowsApplication1.ABOUT_US.resources
