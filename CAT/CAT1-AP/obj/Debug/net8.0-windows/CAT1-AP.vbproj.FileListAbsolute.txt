@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\obj\Debug\net8.0-windows\CAT1_AP.frmSTUDENTGRADES.resources
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\obj\Debug\net8.0-windows\CAT1-AP.vbproj.GenerateResource.cache
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\obj\Debug\net8.0-windows\CAT1-AP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\obj\Debug\net8.0-windows\CAT1-AP.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\obj\Debug\net8.0-windows\CAT1-AP.AssemblyInfo.vb
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\obj\Debug\net8.0-windows\CAT1-AP.vbproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\bin\Debug\net8.0-windows\CAT1-AP.exe
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\bin\Debug\net8.0-windows\CAT1-AP.deps.json
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\bin\Debug\net8.0-windows\CAT1-AP.runtimeconfig.json
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\bin\Debug\net8.0-windows\CAT1-AP.dll
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\bin\Debug\net8.0-windows\CAT1-AP.pdb
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\obj\Debug\net8.0-windows\CAT1-AP.dll
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\obj\Debug\net8.0-windows\refint\CAT1-AP.dll
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\obj\Debug\net8.0-windows\CAT1-AP.pdb
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\obj\Debug\net8.0-windows\CAT1-AP.genruntimeconfig.cache
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\obj\Debug\net8.0-windows\ref\CAT1-AP.dll
+C:\Users\user\OneDrive\Bachelor of Science in Information Technology\SEM 2.2\APPLICATION PROGRAMMING\AP PROJECTS - VB\CAT1-AP\obj\Debug\net8.0-windows\CAT1_AP.FrmCURRENCYCONVERTER.resources
